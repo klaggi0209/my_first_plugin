@@ -1,8 +1,8 @@
 {
-  "name": "MyFirstView",
-  "description": "My first back end view",
+  "name": "ToDo List",
+  "description": "ToDo List König-Shop",
   "namespace": "MyFirstView",
-  "author": "plentymarkets GmbH",
+  "author": "Christian Klagge",
   "type": "backend",
   "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider",
   "version":"0.0.1",
